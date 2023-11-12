@@ -1,5 +1,4 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+bokeh
+streamlit_bokeh_events 
+g4f
